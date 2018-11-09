@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "Parada 1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.60890102386474,
+          21.079895159166792
+        ]
+      }
+    },
+    {
+      "type": "Feature",      
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "Parada 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.59640729427337,
+          21.070379532028273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "Parada "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58870935440063,
+          21.064087170593467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "UTL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.58190727233887,
+          21.06228501327374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Name": "Estacion Delta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.61741971969604,
+          21.094350138226332
+        ]
+      }
+    }
+  ]
+}
